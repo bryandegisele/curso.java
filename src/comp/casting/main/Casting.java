@@ -21,6 +21,7 @@ public class Casting {
 		
 		resultado = valorx + valory;
 		System.out.println(resultado);
+		
 	}
 
 }
