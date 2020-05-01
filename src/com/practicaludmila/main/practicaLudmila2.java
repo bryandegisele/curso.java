@@ -6,7 +6,7 @@ public class practicaLudmila2 {
 		String der = " Ludmila Eileen Vargas Barros ";
 		int res = 48648053;
 		int uny = 11;
-        int ery = 32;
+        int ery = 30;
 		String gui = "violeta";
 		String ert = "cs.Naturales";
 		
@@ -16,11 +16,19 @@ public class practicaLudmila2 {
         System.out.println("DNI:");
         System.out.println(res);
         System.out.println("EDAD:");
-        System.out.println(ery);
-        System.out.println("C");
+        System.out.println(uny + "anos");
+        System.out.println("Cumpleanos:");
+        System.out.println(ery + " de junio");
+        System.out.println("Color Favorito:");
+        System.out.println(gui);
+        System.out.println("Materia Preferido:");
+        System.out.println(ert);
         
         
         
 	}
+	
+	
+	
 
 }
