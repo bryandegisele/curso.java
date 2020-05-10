@@ -20,7 +20,7 @@ public class FastTest {
 		resultado = cadena1.toUpperCase().trim().equals(cadena2.toUpperCase().trim());
 
 		// comparando las cadenas
-		System.out.println("La comparacion es:" + resultado);
+		System.out.println("La comparacion es: "+ resultado);
 
 		// longitud de las cadenas
 		System.out.println("la longitud de la cadena 1 es: " + cadena1.length());
@@ -28,7 +28,7 @@ public class FastTest {
 
 		// mensaje parametrizado
 		System.out.println(String.format("Este Test fue realizado por: %s", student));
-		System.out.printf(String.format("Este Test fue realizado por: %s", student));
+		
 	}
 
 }
